@@ -1,7 +1,7 @@
 # Interoperability of Services using User Identity
 
 ## Introduction
-This is a call for feedback on the topic of bringing interoperability and composability together with the privacy-friendly design of Internet Identity and other identity providers. This is an initiative of the Identity and Authentication Working Group. Community members are encouraged to actively participate and take part in the monthly working group sessions.
+This is a call for feedback on the topic of bringing interoperability and composability together with the privacy-friendly design of identity providers on the Internet Computer. This is an initiative of the Identity and Authentication Working Group. Community members are encouraged to actively participate and take part in the monthly working group sessions.
 
 This is a live document and will be expanded continuously as we go along the process outlined below.
 
@@ -12,8 +12,8 @@ The goal is to **derive the requirements, a solution design and ultimately an MV
 
 ## Process
 This feature will go through the following process:
-1. Validate the problem statement (current step)
-2. Gather requirements from the community
+1. Validate the problem statement 
+2. Gather requirements from the community (current step)
 3. Form consent in the Identity and Authentication Working Group on a consolidated set of MVP requirements.
 4. Start process to find possible solutions to address the MVP requirements.
 5. Form consent in the Identity and Authentication Working Group on an implementation ready MVP specification.
